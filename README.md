@@ -8,7 +8,7 @@
 
 ### Team's experience
 
-* Name: Luis Cordero
+* Name:&#x20;
   * Discord Username:&#x20;
   * Github Username:&#x20;
   * Role:&#x20;
