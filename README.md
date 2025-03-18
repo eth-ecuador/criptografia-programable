@@ -10,7 +10,7 @@
 * **3 weeks per module** → First 2 weeks: study, last week: **buildathon** (with office hours).
 * **3 buildathons total** → Participants can contribute in various ways based on what they learned, such as:
   * Writing a blog post explaining a theoretical concept in detail.
-  * Implementing a cryptographic algorithm in Python.
+  * Implementing a ZK circuits with Noir or Cairo.
   * Building a partial or end-to-end application using the knowledge gained.
 * **Total execution time: 9 weeks.**
 * **Pre-class readings** to prepare participants.
