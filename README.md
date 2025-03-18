@@ -2,17 +2,6 @@
 
 ## Overview
 
-## Short Rationale
-
-
-
-### Team's experience
-
-* Name:&#x20;
-  * Discord Username:&#x20;
-  * Github Username:&#x20;
-  * Role:&#x20;
-
 ## Syllabus
 
 ### HIGHLIGHTS:
