@@ -88,8 +88,6 @@
     * Polynomial constraints
     * FRI commitment protocol
     * The proof
-  * [Stark 101](https://starkware.co/stark-101/)
-  * [Cairo 101](https://github.com/starknet-edu/starknet-cairo-101/blob/main/README.es.md)
 * **Development on STARKNET**
   * Creating smart contracts with Cairo
   * Building a scalable dApp
