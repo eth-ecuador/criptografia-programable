@@ -35,10 +35,10 @@ Curso intensivo en español sobre criptografía programable. Consta de 3 módulo
     * [Crypto101](https://www.crypto101.io/),
     * [Cryptography Handbook](https://drive.google.com/drive/folders/1uoH11bXs5G_H7v8b0PTIBNXBPSjKz-Oi?dmr=1\&ec=wgc-drive-globalnav-goto)
     * [Number Theory](https://drive.google.com/file/d/1-jBKgQ1J8NWYBXKfknJp2YuMxo6Y9CEQ/view?usp=sharing)
-    * MoonMath Manual
-    * Abstract Algebra: Theory and Applications (AATA)
-    * Elliptic Curves: Number Theory and Cryptography
-    * A Graduate Course in Applied Cryptography
+    * [MoonMath Manual](https://github.com/LeastAuthority/moonmath-manual)
+    * [Abstract Algebra: Theory and Applications (AATA)](https://judsonbooks.org/aata-files/aata-20240706.pdf)
+    * [Elliptic Curves: Number Theory and Cryptography](https://people.cs.nycu.edu.tw/~rjchen/ECC2012S/Elliptic%20Curves%20Number%20Theory%20And%20Cryptography%202n.pdf)
+    * [A Graduate Course in Applied Cryptography](https://toc.cryptobook.us/)
 * **Introducción a las Pruebas de Conocimiento Cero**
   * ¿Qué son y por qué son necesarias? (Escalabilidad y Privacidad).
   * Tipos de ZK-Proofs: zk-SNARKs vs zk-STARKs.
