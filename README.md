@@ -100,8 +100,8 @@ Curso intensivo en español sobre criptografía programable. Consta de 3 módulo
     * Protocolo de compromiso FRI (Fast Reed-Solomon Interactive Oracle Proofs).
     * Generación y verificación de la prueba.
     * Recursos:
-      * _STARKs: A Gentle Introduction_ de StarkWare
-      * _FRI Protocol Explained_
+      * [_STARKs: A Gentle Introduction_ de StarkWare](https://starkware.co/stark-101/)
+      * [Anatomy of a STARK](https://aszepieniec.github.io/stark-anatomy/)
 * **Desarrollo en STARKNET**
   * Creación de contratos inteligentes con Cairo.
   * Ejemplo de código de una dApp escalable en el ecosistema de Starknet
