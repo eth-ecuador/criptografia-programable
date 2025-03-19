@@ -87,11 +87,7 @@ Curso intensivo en español sobre criptografía programable. Consta de 3 módulo
 * Implementar una prueba recursiva (por ejemplo, para verificar múltiples transacciones).
 * Caso de uso práctico: sistema de identidad digital ecuatoriana (verificación privada de identidad con Noir).
 
-### MÓDULO 3: **Starknet y Cairo - Escalabilidad con STARKs**
 
-📆 **Semanas 7-8: Teoría y Aplicaciones**
-
-* **SNARKs y Pruebas Recursivas**&#x20;
 
 ### **MODULE 3: STARKNET & Cairo - Scalability with STARKs**
 
