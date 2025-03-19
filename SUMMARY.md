@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Programmable Cryptopgrahy](README.md)
-  * [Intro a Cripto Programable](modulo-1/intro-a-criptografia.md)
+* [Criptografía Programable](README.md)
+  * [Introducción](modulo-1/intro-a-criptografia.md)
