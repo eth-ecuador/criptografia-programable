@@ -56,7 +56,7 @@ Curso intensivo en español sobre criptografía programable. Consta de 3 módulo
 * Implementar un algoritmo criptográfico en Python (por ejemplo, RSA o un cifrado simétrico como AES).
 * Crear una aplicación básica que demuestre una prueba de conocimiento cero (puede ser un ejemplo simple usando una librería como Libsnark).
 
-### MÓDULO 2: Aztec y Noir - Privacidad, SNARKs y Pruebas Recursivas
+### MÓDULO 2:   SNARKs y Privacidad
 
 📆 **Semanas 4-5: Teoría y Aplicaciones**
 
@@ -64,53 +64,35 @@ Curso intensivo en español sobre criptografía programable. Consta de 3 módulo
   * SNARKs
   * Compromisos KZG (Kate-Zaverucha-Goldberg).
   * Sistemas de prueba: Plonk y Ultraplonk.
-  * Reducción de restricciones y pruebas recursivas.
   * Aplicaciones en privacidad y descentralización: ejemplos como transacciones privadas y votaciones seguras.
   * Recursos:
     * Plonk: A Universal SNARK for Trusted Setup
+      * [PLONK by Hand (Part 1: Setup)](https://research.metastate.dev/plonk-by-hand-part-1/)
+      * [PLONK by Hand (Part 2: Setup)](https://research.metastate.dev/plonk-by-hand-part-2-the-proof/)
+      * [PLONK by Hand (Part 3: Setup)](https://research.metastate.dev/plonk-by-hand-part-3-verification/)
+    * [Plonk Paper](https://eprint.iacr.org/2019/953)
+    * [Plonkup](https://eprint.iacr.org/2020/315)
+    * [Plonk ZK Hack](https://zkhack.dev/whiteboard/module-five/)
     * KZG Commitments Explained
-* **Aztec 101 - Programación con Noir y Sandbox de Aztec**
-  * Introducción a Noir: sintaxis y estructura.
-  * ACIR (Abstract Circuit Intermediate Representation) y backend de Barrentenberg.
-  * Ejecución en navegadores con WebAssembly (WASM).
-  * Ejemplo de código en el ecosistema de Aztec
-  * Recursos:&#x20;
-    * [Noir Documentation](https://noir-lang.org/docs/noir/concepts/data_types/)
-    * [https://github.com/noir-lang/awesome-noir](https://github.com/noir-lang/awesome-noir)
-    * [Building a web app with Noir and Barretenberg](https://noir-lang.org/docs/tutorials/noirjs_app)
-    * [ https://aztec.network/research ](https://aztec.network/research)
+      * [KZG in Practice: Polynomial Commitment Schemes and Their Usage in Scaling Ethereum](https://scroll.io/blog/kzg)
+      * [Mastering Polynomial Commitments - A Beginner's Guide to the KZG Polynomial Commitment](https://thogiti.github.io/2024/03/22/Mastering-KZG-by-hands.html#properties-of-commitments)
+    * Aplicaciones en privacidad:
+      * [Extending the Anonymity of Zcash](https://arxiv.org/pdf/1902.07337)
+      * [https://z.cash/learn/](https://z.cash/learn/)
+      * [MACI](https://maci.pse.dev/blogs)
+      * Semaphore
 
 📆 **Semana 6: Buildathon 2**\
 🛠 **Proyecto:**
 
-* Desarrollar un contrato en Noir.
-* Implementar una prueba recursiva (por ejemplo, para verificar múltiples transacciones).
-* Caso de uso práctico: sistema de identidad digital ecuatoriana (verificación privada de identidad con Noir).
 
 
-
-### **MODULE 3: STARKNET & Cairo - Scalability with STARKs**
+### **MODULE 3: Escabilidad (rollups) con SN\[T]ARKs**
 
 📆 **Week 7-8: Theory & Applications**
 
-* **Cairo y STARKs**
-  * Conceptos fundamentales:
-    * Ciclo de vida de un STARK: declaración, LDE (Low-Degree Extension) y compromiso.
-    * Restricciones polinomiales.
-    * Protocolo de compromiso FRI (Fast Reed-Solomon Interactive Oracle Proofs).
-    * Generación y verificación de la prueba.
-    * Recursos:
-      * [_STARKs: A Gentle Introduction_ de StarkWare](https://starkware.co/stark-101/)
-      * [Anatomy of a STARK](https://aszepieniec.github.io/stark-anatomy/)
-* **Desarrollo en STARKNET**
-  * Creación de contratos inteligentes con Cairo.
-  * Ejemplo de código de una dApp escalable en el ecosistema de Starknet
-  * Recursos:
-    * [Stark 101](https://starkware.co/stark-101/)
-    * [Cairo 101](https://github.com/starknet-edu/starknet-cairo-101/blob/main/README.es.md)
+
 
 📆 **Semana 9: Buildathon 3**\
 🛠 **Proyecto:**
 
-* Construir una dApp en Starknet (por ejemplo, un sistema de votación escalable).
-* Implementar un sistema basado en STARKs (como una verificación eficiente de múltiples transacciones).
